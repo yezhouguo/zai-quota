@@ -15,7 +15,7 @@ A Claude Code skill that queries your Z.ai (z.ai-coding-plan) account quota usag
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/zai-quota.git ~/.claude/skills/zai-quota
+git clone https://github.com/yezhouguo/zai-quota.git ~/.claude/skills/zai-quota
 
 # Make scripts executable
 chmod +x ~/.claude/skills/zai-quota/zai-quota
@@ -25,7 +25,7 @@ chmod +x ~/.claude/skills/zai-quota/query.py
 ### Option 2: Install from a Script
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/zai-quota/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/yezhouguo/zai-quota/main/install.sh)
 ```
 
 ## Usage
@@ -102,4 +102,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues and questions, please [open an issue](https://github.com/YOUR_USERNAME/zai-quota/issues).
+For issues and questions, please [open an issue](https://github.com/yezhouguo/zai-quota/issues).
